@@ -45,8 +45,9 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/api?username=keshav6740&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=keshav6740&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 ---
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=keshav6740&icon=0&color=0)](https://visitcount.itsvg.in)
