@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=keshav6740&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/api?username=keshav6740&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ### ✍️ Random Dev Quote
