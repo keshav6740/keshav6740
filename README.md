@@ -43,11 +43,6 @@
   
 </div>
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github.com/keshav6740/keshav6740/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=keshav6740&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
