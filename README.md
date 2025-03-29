@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  🔭 I’m currently working as 2nd Year AI-ML Student at MIT Manipal <br> 
+  🔭 I’m currently working as 3rd Year AI-ML Student at MIT Manipal <br> 
   🌱 I’m currently learning Node.js, React, AWS
 </div>
 
