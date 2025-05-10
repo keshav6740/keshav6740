@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://keshav-portfolio-inky.vercel.app/">
-    <img alt="My Portfolio" src="https://img.shields.io/badge/LinkedIn-0077B5">
+    <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
