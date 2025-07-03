@@ -18,8 +18,9 @@
 
 <!-- 💡 NEW SECTION: Professional experience is now highlighted. -->
 ## 💼 Experience
-- **Incoming Software Development Intern** | Adani Green Energy Ltd *(May 2025 - Jul 2025)*
-- **OS and Product Tester** | OnePlus *(Sep 2023 - Present)*
+- **Software Development Intern** | Adani Green Energy Ltd 
+- **OS and Product Tester** | OnePlus 
+- **Head of HR** | Photography Club Manipal
 
 <hr/>
 
