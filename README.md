@@ -18,8 +18,8 @@
 
 <!-- 💡 NEW SECTION: Professional experience is now highlighted. -->
 ## 💼 Experience
-- **Software Development Intern** | Adani Green Energy Ltd 
-- **OS and Product Tester** | OnePlus 
+- **Software Development Intern** | Adani Green Energy Ltd.
+- **OS and Product Tester** | OnePlus
 - **Head of HR** | Photography Club Manipal
 
 <hr/>
@@ -62,7 +62,39 @@
   </p>
 </div>
 
-<!-- Keep the rest of your README (Connect, Stats, Snake) as is -->
 <hr/>
+
 ## 🔗 Connect with me
-...
+
+<div align="center">
+  <a href="mailto:keshavanjaniagrawal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/keshav-agrawal-sde" target="_blank"> <!-- Corrected your LinkedIn URL -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://keshav-portfolio-inky.vercel.app/">
+    <!-- 💡 FIX: Corrected the portfolio badge to be more generic -->
+    <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</div>
+
+<hr/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav6740&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshav6740/keshav6740/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keshav6740/keshav6740/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/keshav6740/keshav6740/output/github-snake.svg" />
+</picture>
+</div>
