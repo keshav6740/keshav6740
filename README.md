@@ -21,9 +21,9 @@
 
 | Project | Description | Tech Stack | Repository |
 |---|---|---|---|
-| **Content-Based Image Retrieval** | An image search engine using SIFT & ORB algorithms to find visually similar images from a dataset of 8,000+. | `Python` `OpenCV` `Flask` `Scikit-learn` | [**Link to Repo**]([YOUR_REPO_LINK_HERE](https://github.com/keshav6740/Content-Based-Image-Retrieval)) |
+| **Content-Based Image Retrieval** | An image search engine using SIFT & ORB algorithms to find visually similar images from a dataset of 8,000+. | `Python` `OpenCV` `Flask` `Scikit-learn` | [**Link to Repo**](https://github.com/keshav6740/Content-Based-Image-Retrieval) |
 | **Music Genre Classification** | A Deep Learning model that classifies music genres from audio clips using a Convolutional Neural Network (CNN) on Mel-spectrograms. | `Python` `TensorFlow` `Keras` `Librosa` | [**Link to Repo**](https://github.com/keshav6740/Music-Genre-Classification) |
-| **Crop Yield Prediction** | A machine learning model using Random Forest to predict crop yields based on agricultural and weather data. | `Python` `Scikit-learn` `Pandas` | [**Link to Repo**]([YOUR_REPO_LINK_HERE](https://github.com/keshav6740/Crop-Yield-Prediction-ML)) |
+| **Crop Yield Prediction** | A machine learning model using Random Forest to predict crop yields based on agricultural and weather data. | `Python` `Scikit-learn` `Pandas` | [**Link to Repo**](https://github.com/keshav6740/Crop-Yield-Prediction-ML) |
 
 <hr/>
 
