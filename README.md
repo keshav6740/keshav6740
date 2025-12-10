@@ -84,9 +84,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav6740&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav6740&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </div>
 
 <br/>
